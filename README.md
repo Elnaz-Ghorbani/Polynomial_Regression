@@ -9,4 +9,4 @@ To run this project, you need the following:
 # Code Explanation
 n is the number of data points and m is the degree of the desired polynomial
 # Results
-![Polynomial Regression Result](path/to/result.png)
+![Polynomial Regression Result](result.png)
